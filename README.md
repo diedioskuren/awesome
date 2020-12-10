@@ -6,4 +6,4 @@ Found that the Kaggle has GBU comes with it.
 
 
 Qestions.
-Some of the google drives have access to google colab and some other's don't.
+Some of the google drives have access to google colab and some others don't.
